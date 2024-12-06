@@ -1,2 +1,2 @@
 # QuarkWorkshop
-Demo repository done in Qurak workshop
+Demo repository done in Quark workshop
